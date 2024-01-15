@@ -2,9 +2,11 @@
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
+Some basic Git commands are:
 ```
-$ git init
-Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/abc
+git status
+git add
+git commit
 ```
 
 
